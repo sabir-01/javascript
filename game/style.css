@@ -1,0 +1,11 @@
+body {
+    background-image: url('./assset/Animated\ GIF\ -\ Find\ &\ Share\ on\ GIPHY.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#spider {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
